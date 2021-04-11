@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; background-color: #e4e4e4; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+app-customer-table{
+    width: 100% !important;
+}
+
+
+.mat-form-field-appearance-outline .mat-form-field-outline {
+    background-color: #f7f8fa !important;
+    border-radius: 5px !important;
+}

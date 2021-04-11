@@ -1,0 +1,36 @@
+table {
+    width: 100%;
+}
+
+.headerCard{
+    width: 95%;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    box-shadow: none !important;
+    border: 1px solid #d4d4d4;
+
+}
+
+.filters{
+    width: 12%;
+    margin-left: 20px;
+}
+
+.tableStyle{
+    transition: none !important;
+    box-shadow: none !important;
+    border-top: 1px solid #d4d4d4;
+    border-radius: 0;
+    background-color: #f1f1f1;
+    margin-left: 10px;
+    width: 98%;
+}
+
+.title{
+    color: black;
+}
+
+:host tr.mat-header-row{
+    height: 40px;
+}
